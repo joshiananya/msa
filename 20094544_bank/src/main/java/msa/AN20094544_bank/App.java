@@ -1,4 +1,4 @@
-package msa._bank;
+package msa.AN20094544_bank;
 
 /**
  * Hello world!
